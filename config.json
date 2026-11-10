@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "FastAPI with SQLite Persistence",
+      "description": "Persist FastAPI task data in SQLite using Python's built-in sqlite3 module",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
